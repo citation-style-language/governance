@@ -7,7 +7,7 @@ The CSL project wishes to facilitate the advancement of science and scholarship 
 ## Communication
 The [Discourse CSL forum](https://discourse.citationstyles.org/) is our “public square”, and the central place for announcements, deliberation, and decision-making for all things related to CSL. While minor decisions may be made directly in our GitHub repositories, significant decisions should always either be discussed or highlighted on the forum.
 
-We wish the CSL project to be welcoming to all, and have adopted the [Contributor Covenant](https://www.contributor-covenant.org/) for our [Code of Conduct](https://github.com/citation-style-language/.github/blob/master/CODE_OF_CONDUCT.md).
+The CSL project welcomes all and has adopted adopted the [Contributor Covenant](https://www.contributor-covenant.org/) for our [Code of Conduct](https://github.com/citation-style-language/.github/blob/master/CODE_OF_CONDUCT.md).
 
 ## Board
 The role of the board members is to shepherd the development and maintenance of the CSL in accordance with the project mission, and to allocate any funds made available to this purpose.
